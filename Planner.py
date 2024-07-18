@@ -17,7 +17,8 @@ def get_file_contents(filename):
         print("'%s' file not found" % filename)
 API_KEY = get_file_contents(filename)
 # print("Our API key is: %s" % (api_key))
-palm.configure(api_key=st.secrets("API_KEY"))
+
+palm.configure(api_key=st.secrets["API_KEY"])
 
 # Define the model to use 
 model_name = "models/text-bison-001"  
