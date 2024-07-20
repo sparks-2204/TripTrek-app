@@ -1,4 +1,4 @@
-https://triptrek-app-rpykpq2dtftadrlq8zjkaf.streamlit.app/ -- **Link for Project Demonstration Website Link**
+**Link for Project Demonstration Website Link**  --  https://triptrek-app-rpykpq2dtftadrlq8zjkaf.streamlit.app/ 
 
 **TripTrek : Intelligent Travel Planning using Palm’s Chat-Bison-001**
 
