@@ -1,6 +1,6 @@
-**TripTrek:IntelligentTravelPlanningusing usingPalm’schat-baison-001**
+**TripTrek : Intelligent Travel Planning using Palm’s Chat-Bison-001**
 
-**ProjectDescription:**
+**Project Description:**
 
 TripTrek is an AI-powered travel planning platform designed to revolutionize the way people plan and organize their trips. By leveraging advanced artificial intelligence algorithms, TripTrek offers users personalized travel itineraries tailored to their preferences, interests, and budget constraints. The platform combines machine learning models with rich travel data to provide users with comprehensive recommendations for accommodations, activities, dining options, transportation, and more. With TripTrek, travelers can say goodbye to the hassle of manually researching and organizing every aspect of their trip and instead enjoy a seamless and stress- free travel planning experience.
 
@@ -42,7 +42,7 @@ activities, ensuring a balanced and engaging trip for students. Technical Archit
 - Ensure seamless integration with major travel service providers for comprehensive booking options.
 - Provide exceptional customer support through real-time assistance features
 
-**ProjectFlow:**
+**Project Flow:**
 
 - Users input text into the UIof Inquisitive.
 - The input text is then processed and analyzed by the PALM architecture, which is integrated into the backend.
@@ -61,14 +61,14 @@ To accomplish this, we have to complete all the activities listed below,
 
 ○ Deploy the application using Streamlit
 
-**PriorKnowledge**
+**Prior Knowledge**
 
 You must have prior knowledge of the following topics to complete this project.
 
 - LLM &PALM: <https://cloud.google.com/vertex-ai/docs/generative-ai/learn-resources>
 - Streamlit: <https://www.datacamp.com/tutorial/streamlit>
 
-**ProjectStructure**
+**Project Structure**
 
 Create the Project folder which contains files as shown below:
 
@@ -103,7 +103,7 @@ google-generativeai: Python client library for accessing the GenerativeAI API, f
 
 The Google APIkey is a secure access token provided by Google, enabling developers to authenticate and interact with various Google APIs. It acts as a form of identification, allowing users to access specific Google services and resources. This key plays a crucial role in authorizing and securing APIrequests, ensuring that only authorized users can access and utilize Google's services.For initializing the model we need to generate PALM API.
 
-**Activity 1:Generate PALMAPIKey**
+**Activity 1:Generate PALM API Key**
 
 - Click on the link [(https://developers.generativeai.google/).](https://skillwallet.smartinternz.com/Student/guided_project_workspace/\(https://developers.generativeai.google/)
 - Then click on “Get APIkey in Google AIStudio”.
@@ -168,7 +168,7 @@ In this milestone, we are deploying the created model using streamlit. Model dep
 - The provided code introduces TripTrek, an AI-driven travel planning platform aimed at revolutionizing trip organization. It leverages advanced AIalgorithms to offer personalized itineraries
 - Three scenarios illustrate TripTrek's capabilities: Family Vacation Coordination, Business Travel Planning for Professionals, and Educational Trips for Students, showcasing its ability to cater to diverse travel needs with tailored itineraries and recommendations.
 
-**Activity 2: Take UserInputs**
+**Activity 2: Take User Inputs**
 
 <!-- ![](Aspose.Words.d123aa07-4642-4d95-bd73-2abca98652eb.012.png) -->
 
